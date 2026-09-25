@@ -1,0 +1,93 @@
+/* cv-style.css — Style optimisé pour l'export PDF */
+
+@page {
+  size: A4;
+  margin: 20mm 15mm;
+}
+
+body {
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 11pt;
+  line-height: 1.5;
+  color: #222;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Titre principal */
+h1 {
+  font-size: 28pt;
+  color: #0366d6;
+  border-bottom: 3px solid #0366d6;
+  padding-bottom: 8px;
+  margin-bottom: 15px;
+  margin-top: 0;
+}
+
+/* Sous-titres de sections */
+h2 {
+  font-size: 16pt;
+  color: #0366d6;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 5px;
+  margin-top: 25px;
+  margin-bottom: 12px;
+}
+
+/* Titres d'expériences */
+h3 {
+  font-size: 13pt;
+  color: #222;
+  margin-top: 18px;
+  margin-bottom: 5px;
+}
+
+h3 strong {
+  color: #0366d6;
+}
+
+/* Paragraphes */
+p {
+  margin: 8px 0;
+}
+
+/* Listes */
+ul {
+  padding-left: 20px;
+  margin: 8px 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+/* Lignes de séparation */
+hr {
+  border: 0;
+  border-top: 2px solid #0366d6;
+  margin: 20px 0;
+}
+
+/* Liens */
+a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+/* Gras dans les listes */
+strong {
+  color: #222;
+}
+
+/* En-tête de contact */
+h1 + p {
+  font-size: 12pt;
+  margin-top: 10px;
+}
+
+/* Dates en italique */
+em {
+  color: #555;
+  font-style: italic;
+}
