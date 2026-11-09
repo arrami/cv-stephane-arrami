@@ -81,10 +81,12 @@ Mon profil articule une double culture rare : la maîtrise technique avancée du
 
 ## Formation & Validations Académiques
 
-*   **Validations / Agréments de l'Éducation Nationale** : Suppléances d'enseignement validées en tant que **Professeur Documentaliste** et en **Arts Appliqués**.
+
+*   **Validations / Agréments de l'Éducation Nationale** : Suppléances d'enseignement validées en tant que **Professeur Documentaliste** (fortement adossé au parcours InfoCom) et en **Arts Appliqués**.
 *   **DUMIN (Diplôme Universitaire du Multimédia et de l'Imagerie Numérique) - Niveau Bac+5** | Université Lumière Lyon 2 (1990-1996).
+*   **Maîtrise en Sciences de l'Information et de la Communication (InfoCom)** | Spécialisation Sémiologie et analyse des médias.
 *   **Titre Professionnel : Formateur Professionnel d'Adultes (Niveau 5)** | Gipal-formation Académie de Lyon (2016-2017).
-*   **Parcours d'Enseignement Professionnel (En cours)** : Préparation active aux référentiels de l'Enseignement technique et professionnel en **Éco-Gestion** / *Lycée Technologique et Professionnel* (Cnfetp, 2026).
+*   **Parcours d'Enseignement Professionnel (CNFETP Lyon)** : Suivi du dispositif de formation « *Devenir enseignant ou formateur en lycée professionnel ou technologique privé* » dans le cadre d’une Préparation Opérationnelle à l’Emploi Individuelle (POEI) | Mars 2026 - Juin 2026.
 *   **Formations Métiers Continues** : Concepteur-Développeur Java (M2i - 2014) · Gestion du Web / multimédia et webmaster (CTI Formation - 2003-2004).
 
 ---
