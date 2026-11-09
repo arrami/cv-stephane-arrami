@@ -118,10 +118,22 @@ Mon profil articule une double culture rare : la maîtrise technique avancée du
 
 ## Projets & Réalisations en ligne
 
-*   **Architectures Web & IA** (`://github.com`) : Blueprints open source (RAG, Headless WordPress, workflows n8n).
-*   **Définitions Digital** (`definitions-digital.com`) : Infrastructure de littératie numérique francophone (+7 000 définitions indexées).
-*   **Tasdawit** (`://taswadit.com`) : Bibliothèque humaine et archivage des mémoires partagées sous Omeka S.
-*   **CodePen** (`codepen.io/citywizz`) : Snippets front-end et expérimentations d'interfaces UI.
+*   **Citywizz** : [citywizz.com](https://citywizz.com/realisations-references/) – Studio de design éditorial et ingénierie de l'information
+*   **Formateur & Architecte IA** : [stephane-arrami.com](https://stephane-arrami.com) - Consultant, formateur, éco-gestion, architectures SI et écosystèmes IA à Lyon.
+*   **Creative Development Lab** : [arrami.me](https://arrami.me) – Laboratoire d'expérimentation UI, interactivité, JavaScript et creative coding pour renforcer les compétences IT.
+*   **Portfolio enseignant** : [arrami.me](https://stephane.arrami.me/) – Espace dédié aux humanités numériques, à l'éducation aux médias (EMI), à l'indexation documentaire et aux dispositifs pédagogiques en Arts appliqués.
+*   **Architectures Web & IA** : [github.com](https://github.com/arrami/arrami) – Référentiel de blueprints et cas pratiques (RAG, Headless WordPress, workflows n8n).
+*   **Définitions Digital** : [definitions-digital.com](https://definitions-digital.com) – Infrastructure de littératie numérique francophone (+7 000 définitions indexées).
+*   **Dictionnaire du numérique** : [dictionnaire-numerique.fr](https://dictionnaire-numerique.fr) – Notions-clés du design UX, du web, des interfaces interactives, de l’intelligence artificielle, de la pédagogie numérique, de l’accessibilité ou encore des outils no-code.
+*   **Amazigh 24** : [amazigh24.com](https://amazigh24.com) – Plateforme de référence et portail d'actualités sur la culture et la civilisation amazighe.
+*   **CIRDARP Amazigh Connect** : [amazighconnect.com](https://amazighconnect.com) – Réseau de presse et de bibliothèque numérique.
+*   **Lyon Infô** : [lyoninfo.fr](https://lyoninfo.fr) – Média indépendant lyonnais axé sur les biens communs, l'inclusion numérique et la diversité culturelle du territoire (depuis 2004).
+*   **Kabyle.com** : [kabyle.com](https://kabyle.com) – Premier média mémoriel et culturel kabyle dans le monde (fondé en 1999)..
+*   **Tunisie Amazigh** : [Tunisie Amazigh](https://tunisie-amazighh.com) – Portail numérique pour la préservation de la mémoire et des perspectives amazighes en Tunisie.
+*   **Tifin** : [tifin.amazigh24.com](https://tifin.amazigh24.com/) – Dictionnaire multilingue nord-africain
+*   **Tasdawit** : [taswadit.com](https://taswadit.com) – Bibliothèque humaine et archivage des mémoires partagées sous Omeka S.
+*   **Madacity** : [madacity.com](https://madacity.com) – Encyclopédie visuelle de Madagascar.
+*   **CodePen** : [codepen.io/citywizz](https://codepen.io) – Snippets front-end et expérimentations d'interfaces UI.
 
 ---
 
