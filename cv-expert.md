@@ -121,7 +121,7 @@ Mon profil articule une double culture rare : la maîtrise technique avancée du
 *   **Citywizz** : [citywizz.com](https://citywizz.com/realisations-references/) – Studio de design éditorial et ingénierie de l'information
 *   **Formateur & Architecte IA** : [stephane-arrami.com](https://stephane-arrami.com) - Consultant, formateur, éco-gestion, architectures SI et écosystèmes IA à Lyon.
 *   **Creative Development Lab** : [arrami.me](https://arrami.me) – Laboratoire d'expérimentation UI, interactivité, JavaScript et creative coding pour renforcer les compétences IT.
-*   **Portfolio enseignant** : [arrami.me](https://stephane.arrami.me/) – Espace dédié aux humanités numériques, à l'éducation aux médias (EMI), à l'indexation documentaire et aux dispositifs pédagogiques en Arts appliqués.
+*   **Portfolio enseignant** : [stephane.arrami.me](https://stephane.arrami.me/) – Espace dédié aux humanités numériques, à l'éducation aux médias (EMI), à l'indexation documentaire et aux dispositifs pédagogiques en Arts appliqués.
 *   **Architectures Web & IA** : [github.com](https://github.com/arrami/arrami) – Référentiel de blueprints et cas pratiques (RAG, Headless WordPress, workflows n8n).
 *   **Définitions Digital** : [definitions-digital.com](https://definitions-digital.com) – Infrastructure de littératie numérique francophone (+7 000 définitions indexées).
 *   **Dictionnaire du numérique** : [dictionnaire-numerique.fr](https://dictionnaire-numerique.fr) – Notions-clés du design UX, du web, des interfaces interactives, de l’intelligence artificielle, de la pédagogie numérique, de l’accessibilité ou encore des outils no-code.
