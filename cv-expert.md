@@ -2,7 +2,7 @@
 
 **Architecte de l'Information · Expert Technique Web & IA · Formateur & Mentor**
 Lyon, France · 06 11 23 15 78 · stephane.arrami@gmail.com
-[stephane-arrami.com](https://stephane-arrami.com) · [Citywizz.com](https://citywizz.com) · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
+[stephane-arrami.com](https://stephane-arrami.com) · [Citywizz.com](https://citywizz.com) · [LinkedIn](https://linkedin.com/in/stephane-arrami) · [GitHub](https://github.com/arrami)
 
 ---
 
